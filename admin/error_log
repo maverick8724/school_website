@@ -1,0 +1,40 @@
+[20-Jun-2023 16:06:40 America/New_York] PHP Warning:  include(inc/head.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 1
+[20-Jun-2023 16:06:40 America/New_York] PHP Warning:  include(): Failed opening 'inc/head.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 1
+[20-Jun-2023 16:06:40 America/New_York] PHP Warning:  include(inc/header.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 1
+[20-Jun-2023 16:06:40 America/New_York] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 1
+[20-Jun-2023 16:06:40 America/New_York] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[20-Jun-2023 16:06:40 America/New_York] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[20-Jun-2023 21:07:59 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 21:07:59 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 21:16:06 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 21:16:06 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 16:16:29 America/New_York] PHP Warning:  include(../inc/connect.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 2
+[20-Jun-2023 16:16:29 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 2
+[20-Jun-2023 16:16:29 America/New_York] PHP Warning:  Undefined variable $con in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 11
+[20-Jun-2023 16:16:29 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/happbexa/wks-securityservice.com/admin/updatepass.php:11
+Stack trace:
+#0 /home/happbexa/wks-securityservice.com/admin/updatepass.php(11): mysqli_query()
+#1 {main}
+  thrown in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 11
+[20-Jun-2023 21:18:00 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 21:18:00 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 16:18:18 America/New_York] PHP Warning:  include(../inc/connect.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 2
+[20-Jun-2023 16:18:18 America/New_York] PHP Warning:  include(): Failed opening '../inc/connect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 2
+[20-Jun-2023 16:18:18 America/New_York] PHP Warning:  Undefined variable $con in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 11
+[20-Jun-2023 16:18:18 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/happbexa/wks-securityservice.com/admin/updatepass.php:11
+Stack trace:
+#0 /home/happbexa/wks-securityservice.com/admin/updatepass.php(11): mysqli_query()
+#1 {main}
+  thrown in /home/happbexa/wks-securityservice.com/admin/updatepass.php on line 11
+[20-Jun-2023 21:19:49 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 21:19:49 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 58
+[20-Jun-2023 21:22:55 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[20-Jun-2023 21:22:55 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[21-Jun-2023 08:01:13 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[21-Jun-2023 08:01:13 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[21-Jun-2023 08:02:16 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[21-Jun-2023 08:02:16 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[21-Jun-2023 08:02:20 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[21-Jun-2023 08:02:20 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/happbexa/wks-securityservice.com/admin/cpass.php on line 59
+[20-Dec-2023 08:35:30 Africa/Lagos] PHP Warning:  include(inc/footer.php): Failed to open stream: No such file or directory in /home1/first34w/globallogistics.efcu.pro/admin/cpass.php on line 59
+[20-Dec-2023 08:35:30 Africa/Lagos] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home1/first34w/globallogistics.efcu.pro/admin/cpass.php on line 59

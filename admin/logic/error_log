@@ -1,0 +1,51 @@
+[22-Jul-2023 20:49:51 UTC] PHP Warning:  include(../include/connection.php): Failed to open stream: No such file or directory in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:49:51 UTC] PHP Warning:  include(): Failed opening '../include/connection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:49:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php:45
+Stack trace:
+#0 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(45): mysqli_query()
+#1 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(10): newlogin()
+#2 {main}
+  thrown in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 45
+[22-Jul-2023 20:53:24 UTC] PHP Warning:  include(../include/connect.php): Failed to open stream: No such file or directory in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:53:24 UTC] PHP Warning:  include(): Failed opening '../include/connect.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:53:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php:32
+Stack trace:
+#0 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(32): mysqli_query()
+#1 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(10): newlogin()
+#2 {main}
+  thrown in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 32
+[22-Jul-2023 20:54:23 UTC] PHP Warning:  include(../include/connection.php): Failed to open stream: No such file or directory in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:54:23 UTC] PHP Warning:  include(): Failed opening '../include/connection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:54:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php:32
+Stack trace:
+#0 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(32): mysqli_query()
+#1 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(10): newlogin()
+#2 {main}
+  thrown in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 32
+[22-Jul-2023 21:55:21 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php:33
+Stack trace:
+#0 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(33): mysqli_num_rows()
+#1 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(10): newlogin()
+#2 {main}
+  thrown in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 33
+[22-Jul-2023 20:59:13 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:59:13 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:59:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php:32
+Stack trace:
+#0 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(32): mysqli_query()
+#1 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(10): newlogin()
+#2 {main}
+  thrown in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 32
+[22-Jul-2023 20:59:22 UTC] PHP Warning:  include(../../connection.php): Failed to open stream: No such file or directory in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:59:22 UTC] PHP Warning:  include(): Failed opening '../../connection.php' for inclusion (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 3
+[22-Jul-2023 20:59:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php:32
+Stack trace:
+#0 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(32): mysqli_query()
+#1 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(10): newlogin()
+#2 {main}
+  thrown in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 32
+[22-Jul-2023 22:00:06 Africa/Lagos] PHP Fatal error:  Uncaught TypeError: mysqli_fetch_array(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php:14
+Stack trace:
+#0 /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php(14): mysqli_fetch_array()
+#1 {main}
+  thrown in /home/apexqxdm/keepingsafefasterservice.pro/admin/logic/login.php on line 14
